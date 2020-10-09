@@ -1,0 +1,14 @@
+body{
+    background-color: coral;
+    color: rgb(0, 54, 172);
+}
+
+#Camera{
+    border: 3px dashed white;
+    width: 350px;
+    height: 300px;
+}
+
+.Name_of_objects , #Result_Object_Name , #Result_Object_Accuracy{
+color: rgb(0, 89, 255);
+}
